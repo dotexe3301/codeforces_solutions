@@ -27,3 +27,4 @@ int main()
         cout << ceil(m/a)*ceil(n/a) << endl;
     }
 }
+
