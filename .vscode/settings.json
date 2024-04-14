@@ -4,5 +4,6 @@
         "unordered_map": "cpp",
         "ostream": "cpp",
         "cmath": "cpp"
-    }
+    },
+    "editor.fontFamily": "Hack Nerd Font"
 }
